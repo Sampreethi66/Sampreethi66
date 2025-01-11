@@ -52,6 +52,7 @@ Explore all my repositories [here](https://github.com/Sampreethi66?tab=repositor
 
 ---
 ## 📊 Stats
+
 <p align="center">
   <a href="https://github.com/Sampreethi66">
     <img src="https://github-readme-stats.vercel.app/api?username=Sampreethi66&show_icons=true&theme=gruvbox&count_private=true&hide=stars&include_all_commits=true" alt="Sampreethi's GitHub Stats" width="400">
@@ -60,6 +61,31 @@ Explore all my repositories [here](https://github.com/Sampreethi66?tab=repositor
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampreethi66&layout=compact&theme=gruvbox&langs_count=6&hide=html,css" alt="Top Languages" width="400">
   </a>
 </p>
+
+---
+
+### **💡 Key Skills and Scores**
+
+| Skill/Tool          | Certification/Score         | Platform                     |
+|----------------------|-----------------------------|------------------------------|
+| **Python**          | 95%                         | [DataCamp](https://www.datacamp.com/) |
+| **SQL**             | Top 5%                      | [HackerRank](https://www.hackerrank.com/) |
+| **Tableau**         | 92%                         | [Tableau Certification](https://www.tableau.com/) |
+| **AWS Practitioner**| Certified                   | [AWS Certification](https://aws.amazon.com/certification/) |
+| **Power BI**        | Advanced Level              | Internal Training Programs   |
+| **Excel**           | Proficient                  | Academic Projects            |
+
+---
+
+### **Tools Expertise**
+
+- **Programming Libraries**: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Keras, TensorFlow, PyTorch, Flask.
+- **Visualization Tools**: Tableau, Power BI, Excel.
+- **SQL Platforms**: MySQL, PostgreSQL, MongoDB.
+- **Big Data Tools**: Apache Spark, Hadoop.
+- **Cloud Platforms**: AWS.
+
+---
 
 ## 🌐 Let's Connect and follow
 
