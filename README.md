@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sampreethi Bokka!
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" alt="Header GIF" width="50%" height="auto">
+  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" alt="Header GIF" width="70%" height="auto">
 </p>
 
 <p align="center"> 
@@ -11,6 +11,7 @@
 - 📍 Based in Richardson, TX
 - 🌱 Currently exploring **Deep Learning** and **Data Visualization**
 - ✍️ Passionate about combining **AI** and **Business Insights**
+- Explore all my repositories [here](https://github.com/Sampreethi66?tab=repositories).
 
 The rapid advancements in technology and the digital transformation of businesses have fueled my passion for working with data. As the world generates escalating amounts of information daily, I am driven to extract meaningful insights and develop innovative solutions that empower businesses to make informed decisions.
 
@@ -42,10 +43,6 @@ During my Bachelor’s in Electronics and Communications Engineering at the Vell
   
 </p>
 
-## ⭐ My Projects
-Explore all my repositories [here](https://github.com/Sampreethi66?tab=repositories).
-
-
 ## 📚 **Research Papers**
 - [Fruit Maturity Detection Using MATLAB Image Processing](https://www.ijitee.org/portfolio-item/g5118059720/)
 - [Comparative Analysis of IGP Protocols of an Enterprise Network](https://drive.google.com/file/d/1xaJl0J_WAGsWD_5mD8uOebznufaj2sIC/view)
@@ -53,29 +50,29 @@ Explore all my repositories [here](https://github.com/Sampreethi66?tab=repositor
 ---
 ## 📊 Stats
 
+<!-- Section starts -->
 <p align="center">
+  <!-- Streak Stats -->
   <a href="https://github.com/Sampreethi66">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sampreethi66&show_icons=true&theme=gruvbox&count_private=true&hide=stars&include_all_commits=true" alt="Sampreethi's GitHub Stats" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sampreethi66&theme=gruvbox&hide_border=true" alt="Sampreethi's Streak Stats" width="45%">
   </a>
+  <!-- General GitHub Stats -->
   <a href="https://github.com/Sampreethi66">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampreethi66&layout=compact&theme=gruvbox&langs_count=6&hide=html,css" alt="Top Languages" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sampreethi66&show_icons=true&theme=gruvbox&count_private=true&hide_border=true&include_all_commits=true" alt="Sampreethi's GitHub Stats" width="45%">
   </a>
 </p>
 
----
-
-### **💡 Key Skills and Scores**
-
-| Skill/Tool          | Certification/Score         | Platform                     |
-|----------------------|-----------------------------|------------------------------|
-| **Python**          | 95%                         | [DataCamp](https://www.datacamp.com/) |
-| **SQL**             | Top 5%                      | [HackerRank](https://www.hackerrank.com/) |
-| **Tableau**         | 92%                         | [Tableau Certification](https://www.tableau.com/) |
-| **AWS Practitioner**| Certified                   | [AWS Certification](https://aws.amazon.com/certification/) |
-| **Power BI**        | Advanced Level              | Internal Training Programs   |
-| **Excel**           | Proficient                  | Academic Projects            |
-
----
+<!-- Second row -->
+<p align="center">
+  <!-- Top Languages -->
+  <a href="https://github.com/Sampreethi66">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampreethi66&layout=compact&theme=gruvbox&langs_count=8&hide_border=true&hide=html,css" alt="Most Used Languages" width="45%">
+  </a>
+  <!-- Contribution Graph -->
+  <a href="https://github.com/Sampreethi66">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=Sampreethi66&theme=gruvbox" alt="Contribution Graph" width="45%">
+  </a>
+</p>
 
 ### **Tools Expertise**
 
