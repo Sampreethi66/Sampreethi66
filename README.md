@@ -18,7 +18,6 @@ The rapid advancements in technology and the digital transformation of businesse
 During my Bachelor’s in Electronics and Communications Engineering at the Vellore Institute of Technology, I gained exposure to foundational concepts in Electronics and Computer Science. My coursework, research, and projects inspired me to specialize in Data Science and Business Analytics, equipping me with the skills to bridge technical expertise and business acumen.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sampreethi66&color=blue&style=flat-square)
-![Visitor Count](https://komarev.com/ghpvc/?username=Sampreethi66&color=blue)
 
 ## 🛠️ Technical Skills
 
