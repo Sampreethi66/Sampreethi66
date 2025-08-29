@@ -127,11 +127,6 @@ During my Bachelor’s in Electronics and Communications Engineering at the Vell
   - Chart: https://sampreethi66.github.io/localsite/public/reports/cs_density.html
   - Repo (fork): https://github.com/Sampreethi66/localsite
 
-- 🔹 **Loan Approval (ML/DL)** — *(add repo link)*
-- 🔹 **Stock Price + Sentiment (ML + NLP)** — *(add repo link)*
-
----
-
 ### 📊 GitHub Stats
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sampreethi66&show_icons=true&theme=tokyonight" />
