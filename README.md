@@ -142,7 +142,7 @@ During my Bachelor’s in Electronics and Communications Engineering at the Vell
 
 ### 🌐 Connect
 - 💼 LinkedIn:[ **/in/sampreethi-bokka**](https://www.linkedin.com/in/sampreethi-bokka/)
-- ✍️ Medium: **@sampreethi66**
+- ✍️ Medium: [**@sampreethi66**](https://medium.com/@sampreethi66)
 - 📧 Email: **sampreethi4565@gmail.com**
 
 ---
