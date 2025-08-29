@@ -115,3 +115,39 @@ During my Bachelor’s in Electronics and Communications Engineering at the Vell
 - **Total Problems Solved**: 100+
 - **Languages Used**: Python, SQL 
 - **Focus Areas**: Algorithms, Data Structures, Dynamic Programming
+
+- ### 📌 Featured Projects
+- 🔹 **CS Job Density — Flask UI + API**
+  - Live UI: https://cloud-hssh.onrender.com/
+  - JSON API: https://cloud-hssh.onrender.com/api/county_density?limit=5
+  - CSV: https://cloud-hssh.onrender.com/download/county_density.csv
+  - Repo (fork): https://github.com/Sampreethi66/cloud
+
+- 🔹 **CS Job Density — Static Preview**
+  - Chart: https://sampreethi66.github.io/localsite/public/reports/cs_density.html
+  - Repo (fork): https://github.com/Sampreethi66/localsite
+
+- 🔹 **Loan Approval (ML/DL)** — *(add repo link)*
+- 🔹 **Stock Price + Sentiment (ML + NLP)** — *(add repo link)*
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sampreethi66&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampreethi66&layout=compact&theme=tokyonight" />
+</p>
+
+<!-- Optional streaks card -->
+<!-- <p>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampreethi66&theme=tokyonight" />
+</p> -->
+
+---
+
+### 🌐 Connect
+- 💼 LinkedIn: **/in/sampreethi-bokka**
+- ✍️ Medium: **@sampreethi66**
+- 📧 Email: **sampreethi6_6@outlook.com**
+
+---
